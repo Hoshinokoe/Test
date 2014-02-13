@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guestbook", "Guestbook\Guestbook.csproj", "{B8B04443-45FB-4B91-91FD-8355BB4C207B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guestbook.Tests", "Guestbook.Tests\Guestbook.Tests.csproj", "{73FD0057-327C-422F-9D58-54F17F05F9A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B04443-45FB-4B91-91FD-8355BB4C207B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B04443-45FB-4B91-91FD-8355BB4C207B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B04443-45FB-4B91-91FD-8355BB4C207B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B04443-45FB-4B91-91FD-8355BB4C207B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FD0057-327C-422F-9D58-54F17F05F9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FD0057-327C-422F-9D58-54F17F05F9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FD0057-327C-422F-9D58-54F17F05F9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FD0057-327C-422F-9D58-54F17F05F9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
